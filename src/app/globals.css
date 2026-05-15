@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", system-ui, sans-serif;
+
+  --color-brand-50:  #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-200: #c7d2fe;
+  --color-brand-500: #6366f1;
+  --color-brand-600: #4f46e5;
+  --color-brand-700: #4338ca;
+
+  --color-sidebar: #0a0a14;
+  --color-sidebar-border: rgba(255,255,255,0.07);
+  --color-sidebar-text: #9ca3af;
+  --color-sidebar-text-active: #ffffff;
+
+  --shadow-card: 0 1px 3px 0 rgba(0,0,0,0.06), 0 1px 2px -1px rgba(0,0,0,0.04);
+  --shadow-card-hover: 0 8px 24px 0 rgba(0,0,0,0.10), 0 4px 8px -4px rgba(0,0,0,0.06);
+  --shadow-glow-indigo: 0 0 24px rgba(99,102,241,0.25);
+}
+
+/* ── Light theme (default) ────────────────────────────── */
+:root {
+  --bg: #f6f7fb;
+  --surface: #ffffff;
+  --border: #e5e7eb;
+  --text: #111827;
+  --text-muted: #6b7280;
+  --chart-grid: #f3f4f6;
+}
+
+/* ── Aurora theme ─────────────────────────────────────── */
+html[data-theme="aurora"] {
+  --bg: #0d0c22;
+  --surface: rgba(255,255,255,0.07);
+  --border: rgba(255,255,255,0.1);
+  --text: #f0f0ff;
+  --text-muted: #9090c0;
+  --chart-grid: rgba(255,255,255,0.07);
+}
+/* ── Neon City theme ──────────────────────────────────── */
+html[data-theme="neon"] {
+  --bg: #080812;
+  --surface: rgba(255,255,255,0.05);
+  --border: rgba(6,182,212,0.2);
+  --text: #e0f8ff;
+  --text-muted: #6090a0;
+  --chart-grid: rgba(6,182,212,0.08);
+}
+/* ── Deep Ocean theme ─────────────────────────────────── */
+html[data-theme="ocean"] {
+  --bg: #071523;
+  --surface: rgba(255,255,255,0.06);
+  --border: rgba(13,148,136,0.22);
+  --text: #e0f7fa;
+  --text-muted: #5090a0;
+  --chart-grid: rgba(13,148,136,0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 999px; }
+::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
+
+/* Smooth focus rings */
+:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* ── Matrix theme ─────────────────────────────────────── */
+html[data-theme="matrix"] {
+  --bg: #000d02;
+  --surface: rgba(0, 255, 65, 0.05);
+  --border: rgba(0, 255, 65, 0.14);
+  --text: #00ff41;
+  --text-muted: #00882a;
+  --chart-grid: rgba(0, 255, 65, 0.1);
+}
+/* ── Synthwave theme ──────────────────────────────────── */
+html[data-theme="synthwave"] {
+  --bg: #0d0118;
+  --surface: rgba(255, 100, 200, 0.06);
+  --border: rgba(255, 100, 200, 0.18);
+  --text: #ff71ce;
+  --text-muted: #a040a0;
+  --chart-grid: rgba(255, 100, 200, 0.08);
+}
+/* ── Galaxy theme ─────────────────────────────────────── */
+html[data-theme="galaxy"] {
+  --bg: #020008;
+  --surface: rgba(167, 139, 250, 0.05);
+  --border: rgba(167, 139, 250, 0.14);
+  --text: #ddd6fe;
+  --text-muted: #6050a0;
+  --chart-grid: rgba(167, 139, 250, 0.08);
+}
+
+/* ── Dark theme: override bg-white cards ──────────────── */
+html[data-theme="aurora"] .bg-white,
+html[data-theme="neon"] .bg-white,
+html[data-theme="ocean"] .bg-white,
+html[data-theme="matrix"] .bg-white,
+html[data-theme="synthwave"] .bg-white,
+html[data-theme="galaxy"] .bg-white {
+  background: var(--surface) !important;
+  backdrop-filter: blur(12px);
+}
+
+
+/* ── Keyframe animations ──────────────────────────────── */
+@keyframes orb-float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(2%, -3%) scale(1.05); }
+}
+
+@keyframes aurora-shift {
+  0%, 100% { transform: translate(0%, 0%) scale(1); }
+  33% { transform: translate(8%, -14%) scale(1.18); }
+  66% { transform: translate(-7%, 9%) scale(0.88); }
+}
+
+@keyframes neon-grid-scroll {
+  from { background-position: 0 0; }
+  to { background-position: 40px 40px; }
+}
+
+@keyframes neon-pulse {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.1); }
+}
+
+@keyframes ocean-blob {
+  0%, 100% {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    transform: translate(0, 0);
+  }
+  50% {
+    border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+    transform: translate(4%, 5%);
+  }
+}
+
+@keyframes matrix-rain {
+  from { background-position: 0 0, 0 0; }
+  to   { background-position: 0 80px, 0 0; }
+}
+
+@keyframes synthwave-shift {
+  0%, 100% { transform: translateX(-50%) scale(1) rotate(0deg); }
+  33%       { transform: translateX(-48%) scale(1.12) rotate(2deg); }
+  66%       { transform: translateX(-52%) scale(0.92) rotate(-2deg); }
+}
+
+@keyframes synthwave-grid {
+  from { background-position: 0 0, 0 0; }
+  to   { background-position: 0 -140px, 0 0; }
+}
+
+@keyframes galaxy-drift {
+  from { background-position: 0% 0%; }
+  to   { background-position: 2% 3%; }
+}
+
+@keyframes galaxy-nebula {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  40%       { transform: translate(6%, -8%) scale(1.15); }
+  70%       { transform: translate(-4%, 5%) scale(0.9); }
+}
+
+/* Chart tooltip override */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  border-radius: 10px !important;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.10) !important;
+}
