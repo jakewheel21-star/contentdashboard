@@ -8,7 +8,7 @@ Every point comes from the Brand-building resources library on Drive (Personal B
 
 | Beat | Time | What happens |
 |---|---|---|
-| Hook | 0–1.5s | Say the hook line straight to camera. On-screen text: **10/10 BRAND ADVICE** with a small "↓ more niche" arrow. Start talking on frame one: no "hey guys". |
+| Hook | 0–1.5s | The same line every time (see below). On-screen at the top: **PART X**. Underneath: **10/10 BRAND ADVICE** with a small "↓ more niche" arrow. Start talking on frame one: no "hey guys". |
 | Point 1 | ~5–7s | Level 1 (broad). Make the point, then give the reason in one line. |
 | Point 2 | ~5–7s | Level 2. Punch in 10–20% to show it's moved up a level. |
 | Point 3 | ~5–7s | Level 3. Change the on-screen counter (e.g. "NICHE LEVEL 3"). |
@@ -26,15 +26,11 @@ Every point comes from the Brand-building resources library on Drive (Personal B
 
 ---
 
-## Hook variants (rotate these)
+## The hook (locked: identical in every part)
 
-1. "10 out of 10 personal branding advice, but it gets increasingly more niche."
-2. "Personal branding advice that gets more niche every time I say it."
-3. "Five personal branding tips. The last one, nobody talks about."
-4. "Personal branding advice from level one to 'how do you even know that'."
-5. "Ten out of ten brand advice, but each tip gets more specific."
-6. "Personal brand tips, from obvious to weirdly specific."
-7. "Here's personal branding advice that gets more niche as I go. Stay for the last one."
+> **"10 out of 10 personal branding advice, but it gets increasingly more niche."**
+
+Don't change the wording, delivery, framing or on-screen text. The hook is the recognisable part of the series. Only the points underneath and the **PART X** number at the top change from video to video.
 
 ---
 
@@ -113,7 +109,7 @@ Each point has two parts: **the line** (what you say) and **→ the why** (one l
 15. **Batch the first two weeks before day one of a sprint.** → Starting a sprint with nothing banked is how you burn out by week three.
 16. **Carousels: slides two and three each have to work as a hook on their own.** → Instagram can show someone slide two on a later visit, so it needs to stop people too.
 
-### LEVEL 5: Ultra niche (the "how do you even know that" tier)
+### LEVEL 5: Ultra niche (the "how do you even know that" tier, 79 points)
 
 1. **Lock your exposure on your phone, then drag it down a touch.** → Press and hold on your face, then slide brightness down. A dark shot can be lifted, but a blown-out one is gone for good.
 2. **Never mix daylight with household bulbs.** → You get one orange cheek and one blue cheek, and no slider can fix both.
@@ -140,6 +136,79 @@ Each point has two parts: **the line** (what you say) and **→ the why** (one l
 23. **Wear mid-tones on camera, not pure white or pure black.** → White blows out and black turns into a black hole.
 24. **Turn HDR off when you film talking heads.** → It often exports washed out or far too bright on other people's phones.
 
+**Colour and grading**
+
+25. **When you set white balance, drag the slider way past the right point, then come back.** → It's much easier to find the centre from both sides than to creep towards it.
+26. **Tint needs much smaller moves than Temp.** → A couple of points on Tint is the difference between healthy and sickly.
+27. **Balance off something that should be white.** → The whites of your eyes, a wall or a sheet of paper. If that looks white, the rest follows.
+28. **Skin looking like fake tan? Go to HSL, pick orange, take saturation down 5–15 and lightness up 5–10.** → It fixes your skin without dulling the rest of the room.
+29. **Watch your wooden desk when you fix your skin in HSL.** → Anything orange or red in the frame moves with your skin.
+30. **Never shift an HSL hue more than about 15.** → Go further and you get patchy, banded edges. If you need more than that, it's a white balance problem.
+31. **To brighten your face, add one point in the middle of the curve and lift it, instead of raising exposure.** → Your face gets brighter and the highlights don't blow out.
+32. **Pin the curve before you pull it.** → Click a point in the middle and one in the highlights first, or the whole line bends and tints everything.
+33. **The grey mush trap: highlights right down and shadows right up flattens everything.** → If either one's past about 30, go back and fix exposure instead.
+34. **Colour wheels: move the dot a few millimetres, no more.** → Cool shadows, warm highlights. Never the other way round on skin.
+35. **There are two kinds of LUT: conversion and creative.** → Using a conversion LUT on normal footage is why most LUTs look terrible.
+36. **Do your masks last, after the edit is locked.** → Trim the clip afterwards and the masked copy falls out of line and leaves a ghost.
+37. **Push the background back: invert your face mask and drop exposure −8 to −15 on the copy.** → The background recedes and you come forward.
+38. **Vignette between 5 and 15.** → If you can see a ring, it's too much.
+39. **Clarity no higher than 8, and sharpen at 0 (5 at most).** → Clarity is unflattering on skin above that, and over-sharpened video looks cheap.
+40. **Add 3–10 grain.** → It hides compression blocks and smooths skin slightly.
+41. **Dark skin looking ashy? The camera underexposed you to protect a bright background.** → Lift the midtones with a curve, add a touch of orange saturation and keep contrast gentle.
+42. **Set CapCut's auto colour correction to 70–80%, then finish by hand.** → At 100% it's a guess. At 75% it's a good starting point.
+43. **Film every clip for one video in the same spot, at the same time of day.** → Matching clips later is the slowest job in colour.
+
+**Editing and sound**
+
+44. **Your payoff should land 55–85% of the way through a short.** → If it comes before that, the back half is dead.
+45. **Cut 1.5 to 2 seconds after the payoff appears.** → Any longer and it feels like it's winding down, so people swipe.
+46. **In long-form, change the layout every 20–40 seconds: face, B-roll, graphic, back to face.** → Jump cuts alone can still feel stuck in one layout.
+47. **In long-form, save one deliberate 30–60 second hold straight to camera, in the last quarter.** → After all the cutting, the stillness makes the verdict land.
+48. **Every graphic should either move in or land with a sound.** → Nothing should just appear from nowhere.
+49. **Ease every animation, never linear.** → Linear motion is what makes a graphic look like a template.
+50. **Desaturate icons and objects you import.** → They sit inside your palette instead of looking pasted on.
+51. **For a big moment, layer three sounds: a low, a mid and a high.** → One sound on its own sounds thin.
+52. **Match the sound to the picture.** → Digital blips for screens, natural sounds outdoors, darker sounds for darker shots.
+53. **Fitting a long track to a short video: reverse the first beat for a lead-in, then cut just before a beat and let the reverb ring out.** → It sounds like the track was made for the video.
+54. **In long-form, make the music louder and quicker in the first 15 seconds, then pull it back.** → Energy at the start, room to think after.
+
+**Hooks and ads**
+
+55. **Meta counts a hook view at 3 seconds. TikTok counts it at 2.** → Never compare hook rates across the two.
+56. **On Meta, a hook rate under 20–25% means the hook needs fixing.** → 30–45% is good and 45%+ is exceptional.
+57. **Only judge hook rate against the same audience temperature.** → Cold audiences average about 22% and warm about 36%, so a great hook rate on retargeting means nothing.
+58. **Hold rate is ThruPlays divided by 3-second plays.** → 40–50% is average and 60%+ is strong. A great hook with a bad hold is still a bad ad.
+59. **Start a story ad with a small natural movement.** → Getting into the car, propping the phone up, tying your hair back. A real moment beats a flashy edit.
+60. **Write 3–5 versions of an ad where only the hook changes.** → Otherwise you don't know what actually made the difference.
+
+**Carousels**
+
+61. **Build your carousel slides at double size.** → 2160 × 2700 instead of 1080 × 1350 gives you noticeably crisper text.
+62. **Tighten the letter spacing on carousel headlines.** → It's the cheapest way to make a cover look designed.
+63. **Darken the photo on your cover.** → The text has to be the focus, not the background.
+64. **Teaching carousels should be 6–10 slides.** → Under 5 rarely gives people enough to save it.
+65. **If a slide needs more than about 25 words, split it.** → A wall of text throws away the one advantage carousels have.
+
+**Algorithm and profile**
+
+66. **Sends drive reach to non-followers. Likes drive reach to followers.** → If you want new people, make something people send to a friend.
+67. **Repost other people's content 10+ times in 30 days and you get left out of recommendations.** → Make your own.
+68. **Search your topic on the platform and write down the suggested search phrases.** → Save the top posts for each phrase into their own folder. That's your content bank.
+69. **Keep the first hour after posting free to reply to comments.** → Then don't judge the post in its first two hours.
+70. **Posts that ask a question get about 77% more comments.** → End on a real question, not "thoughts?"
+71. **Archive anything in your first nine posts that doesn't fit the brand.** → That's what a new visitor actually sees.
+72. **Google your own name and close or update your old profiles.** → A 2019 bio that says something different costs you trust.
+73. **Show your profile to someone in your audience for 10 seconds, then ask who it's for.** → If they can't answer, rewrite your name line and bio.
+
+**Scripting**
+
+74. **Aim for four "but" turns in the first 30 seconds.** → That's what one top-performing short had. Each turn resets attention.
+75. **Write one sentence per line. If the right-hand edge looks level, vary the lengths.** → Same-length sentences sound like you're reading.
+76. **Show the emotion on your body instead of labelling it.** → "I leaned back and breathed out" beats "I was relieved."
+77. **Name the location in a few words. Don't describe it.** → "I'm in the stockroom" is enough.
+78. **Script at about 150 words a minute.** → A 45-second teaching video is roughly 115–125 words.
+79. **In long-form, put your second-strongest point first and your strongest second.** → Value that keeps rising keeps people watching.
+
 ---
 
 ## CTA bank (pick ONE)
@@ -154,11 +223,11 @@ Each point has two parts: **the line** (what you say) and **→ the why** (one l
 
 ---
 
-## Ready-to-film examples
+## Ready-to-film parts
 
-Here are six fully assembled videos, so the format is easy to copy.
+The hook is identical in every part. Put **PART X** at the top of the screen. Only the five points and the CTA change.
 
-### Video 1: The mixed bag
+### PART 1: The mixed bag
 > **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** Optimise for trust, not reach. A small audience of the right people out-earns a big audience of the wrong ones.
 > **2.** Do the buyer maths. Monthly target divided by your price. If it's eight, you need eight people to trust you, not 100k views.
@@ -167,8 +236,8 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** Never mix daylight with household bulbs. You get one orange cheek and one blue cheek, and no editing app can fix both.
 > **CTA:** Follow, because next time it gets even more niche.
 
-### Video 2: All about trust
-> **Hook:** Personal branding advice that gets more niche every time I say it.
+### PART 2: All about trust
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** People buy from people. A face and an opinion beat any logo.
 > **2.** Plan content by job: reach, trust, ask. Trust content gets the fewest views and does the most work.
 > **3.** Mine your sales calls for doubts, and answer one per video before they've had a chance to raise it.
@@ -176,8 +245,8 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** Lower the saturation of the greens, yellows and blues in your shot slightly, so your skin is the most colourful thing in frame. It instantly reads as more premium.
 > **CTA:** Save this. Level five is the one you'll need later.
 
-### Video 3: All about the edit
-> **Hook:** Personal brand tips, from obvious to weirdly specific.
+### PART 3: All about the edit
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** Real beats polished. With AI content everywhere, a flawless look doesn't stand out any more.
 > **2.** Repeat your message until you're bored of it, because your audience still hasn't heard it.
 > **3.** Swap every "and then" in your script for "but" or "so". That's the difference between a list and a story.
@@ -185,8 +254,8 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** If a sound effect plays a few times close together, shift the pitch slightly each time. The same pop on every cut sounds robotic.
 > **CTA:** Comment NICHE and I'll send you the next five.
 
-### Video 4: All about your profile
-> **Hook:** Five personal branding tips. The last one, nobody talks about.
+### PART 4: All about your profile
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** You already have a personal brand. If you don't define it, your audience will.
 > **2.** One topic per account. If you post about everything, the algorithm can't place you.
 > **3.** Pin three posts: who you help, proof, and your story or method.
@@ -194,8 +263,8 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** Put your search phrase in the bold name line of your profile, not just the bio. That's what the platform reads first.
 > **CTA:** Which level got you? Comment the number.
 
-### Video 5: All about the camera
-> **Hook:** Personal branding advice from level one to "how do you even know that".
+### PART 5: All about the camera
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** "I'm not a camera person" is a practice problem, not a personality trait.
 > **2.** Pick two things that are in every single frame, like a colour, a mic or glasses. That's how people recognise you mid-scroll.
 > **3.** Change your set if it looks like everyone else's in your industry.
@@ -203,8 +272,8 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** Lock your exposure on your phone and drag it down a touch. A dark shot can be saved, but a blown-out one can't.
 > **CTA:** Send this to the friend who keeps saying they're "not a camera person".
 
-### Video 6: All about consistency
-> **Hook:** Ten out of ten brand advice, but each tip gets more specific.
+### PART 6: All about consistency
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
 > **1.** Stop chasing virality. It changes what you make and who you attract.
 > **2.** Sprint, then maintain. Push for 30 to 90 days, then hold at one or two posts a week.
 > **3.** One idea a week becomes ten pieces of content: one long piece, one carousel, three shorts.
@@ -212,11 +281,66 @@ Here are six fully assembled videos, so the format is easy to copy.
 > **5.** Save your colour grade as a preset named after where you film, and use it on everything for three months. A look becomes a brand through repetition.
 > **CTA:** Comment BRAND and I'll send you the full workbook.
 
+### PART 7: The colour one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** Be the expert or the student, and say which. A student pretending to be an expert gets found out.
+> **2.** Write down ten things your industry says that you disagree with. Circle three. Those are your hooks.
+> **3.** Write "how I", not "how to". A personal result is easier to trust.
+> **4.** Pause your video at half a second with the sound off. If you can't tell what it's about, nobody can.
+> **5.** Skin looking like fake tan? HSL, orange, saturation down 5 to 15, lightness up 5 to 10. Your skin's fixed and the room doesn't change.
+> **CTA:** Follow for part 8.
+
+### PART 8: The story one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** Show your losses, not just your wins. A feed with only wins looks like a performance.
+> **2.** Name your method. If it has a name, people can recommend it.
+> **3.** Zoom into one moment. "It was a hard year" is a summary. "Tuesday, 6am, sat in the van" is a story.
+> **4.** Your B-roll should show what happens next, not repeat what you just said.
+> **5.** Aim for four "but" turns in your first 30 seconds. Every turn resets attention.
+> **CTA:** Save this. Level five is the one you'll need later.
+
+### PART 9: The algorithm one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** Give way more than you ask. Selling in every post reads as desperate.
+> **2.** Pick one platform plus email and commit for six months.
+> **3.** State the stakes in the first 20 seconds. If nothing's at risk, nothing matters.
+> **4.** Batch two weeks of content before day one of a sprint, or you'll burn out by week three.
+> **5.** Sends drive reach to new people. Likes only drive reach to your followers. Make something people send to a friend.
+> **CTA:** Send this to someone who needs it.
+
+### PART 10: The carousel one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** Tell the story, not the adjective. "Hard-working" is forgettable.
+> **2.** Check enquiries first every month, then saves and sends. Views come last.
+> **3.** Mark your two sales asks in the calendar first, then build the trust content around them.
+> **4.** Slides two and three of a carousel each need to work as a hook on their own. Instagram can show them first.
+> **5.** Build your slides at double size, 2160 by 2700, and tighten the letter spacing on the headline. It instantly looks designed.
+> **CTA:** Comment NICHE and I'll send you the next five.
+
+### PART 11: The ads one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** Decide what you want from your brand before you post another video.
+> **2.** Before any trend or collab, ask: if this became the most-seen thing I ever made, would I be glad?
+> **3.** Rule out the obvious answer early. "It's not that you need more willpower" makes people lean in.
+> **4.** Interrupt first, then add meaning. Your first frame breaks the feed with motion, an angle or a prop.
+> **5.** Meta counts a hook view at 3 seconds, TikTok at 2. If you're comparing hook rates across the two, you're comparing nothing.
+> **CTA:** Follow for part 12.
+
+### PART 12: The polish one
+> **Hook:** 10 out of 10 personal branding advice, but it gets increasingly more niche.
+> **1.** People buy from people. Put your face on it.
+> **2.** Coin names for the stages your audience goes through. People who use your words feel like insiders.
+> **3.** Steal your bio's personality line from how you actually talk, not from LinkedIn.
+> **4.** Every graphic should move in or land with a sound. Nothing just appears.
+> **5.** For your biggest moment, layer three sounds: a low, a mid and a high. One sound on its own sounds thin.
+> **CTA:** Which level got you? Comment the number.
+
 ---
 
 ## Quick check before filming each one
 
-- [ ] The first word is the hook. No warm-up.
+- [ ] The hook is word-for-word the same as every other part, and the first thing said. No warm-up.
+- [ ] **PART X** is at the top of the screen and matches the posting order.
 - [ ] Level 5 is clearly more niche than Level 1. If you could swap them round, rework it.
 - [ ] Every point has a "why", not just the instruction.
 - [ ] There's only one CTA, and it relates to the topic.
